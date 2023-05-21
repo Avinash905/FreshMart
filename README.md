@@ -3,7 +3,7 @@
 <h3>Description :</h3> 
 A static groceries website using tailwind css.
 
-👉[Click here]() to check out the form.
+👉[Click here](https://fresh-mart.netlify.app/) to check out the website.
 <br/>
 
 <hr/>
